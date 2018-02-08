@@ -22,7 +22,239 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="065a7631-2641-4997-9e07-10bbe31218dc" name="Default" comment="" />
+    <list default="true" id="065a7631-2641-4997-9e07-10bbe31218dc" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/app.constants.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/components/footer/footer-list.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/config/env.config.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/app.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/announce-sign-in.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/login-data.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/register-data.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/restore-password.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/service-error-field.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/service-procces-data.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/auth/token-model-response.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/base-model-response.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/cookie-value.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/env-config.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/error-app.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/lang.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/localization-utils.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/category.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/meter.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/payment-product.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/privilege.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-fields.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-node.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tag.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tariff.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/core/models/system/settings.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/custom/EsPayDefaultLangFunction.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router-config-loader.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router.config.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router.parser.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router.pipe.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/localize-router.service.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/app/shared/localize-router/util.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/banners/easypay_card.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/banners/email-activated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/bg_banner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/bg_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/card-deact.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/card-overlay-big.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/card-overlay-big1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/card_mc.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/cards.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/easypay_card.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/logo_prostir.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/main_page_cards.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/mc_vrt_rev.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/overlay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/visa-blue.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/cards/visa_pos_wht_rgb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/chip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/communal-recept.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/control-l.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/control-r.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/control-r_blue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-banks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-budget.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-mobile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-other.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-phone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-transfers.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-tv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-c-utilitis.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-info.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-print.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/icon-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/info-blue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/kyivstar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo-gioc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/defaultlogo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/geotrust.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/geotrust2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/mastercard2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-gai.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-karabas.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-kg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-kg2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-ks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/popular-nline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/sysnet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/sysnet2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo/visa2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/logo_easypay--dark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/news/pic1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/news/pic2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/payment/icon-account.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/payment/icon-card.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/payment/icon-easyk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/payment/icon-purse.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/alfa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/bank.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/cards.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/cifral.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/energo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/eshko.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/gai.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/game.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/game2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/game3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/gaz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/intertelecom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/kmda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/kyivstar-dom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/kyivstar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/kyivstar_gray.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/life.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/logo_prostir.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/more.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/nline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/overwatch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/parimatch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/peoplenet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/purse.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/purses.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/steam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/tanks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/tax.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/ukrtelekom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/vodafone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/webm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/webmoney.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/yez.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/yezzz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/services/zhek.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/social-facebook.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/social-google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/social-twitter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/social-vk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/spritesheet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/app_blue.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow_b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow_down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow_l.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow_r.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/arrow_sm.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-banks.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-budget.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-mobile.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-other.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-phone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-transfers.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-tv.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/categ_icons/icon-c-utilitis.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/check-icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circ_check.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_close_or_error.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_info_blue.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_info_gray.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_info_orange.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_orange_stop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/circle_plus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/close.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/close_b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/control-r_blue.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/correctly.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/cvv-info.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/dots.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/error_icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/error_icon_32x32.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/gplay_blue.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/location_icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-budget.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-card.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-home.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-internet.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-mobile.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-money-transfer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-other.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/main_categories/category-roaming.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/map-point.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/mc_circles.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/play-triangle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/plus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/plus_w.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/cards.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/expand-arrow.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/history.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/logout.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/notify.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/payments.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/settings.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile/wallets.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/profile_icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/invoice.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/mouse-click.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/security.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/statistics.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/register/wallet-pay.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/search.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon/facebook.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon/facebook_w.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon/googlep.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon/twitter.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon/vk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon_color/facebook_color.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon_color/googlep_color.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon_color/twitter_color.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/sm_icon_color/vk_color.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/terminals_map_icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/timer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/visa_line.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/visa_w.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/svg/wallet_illustr.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/swipe.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/system/PCI-DSS_Validated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/system/geotrust.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/system/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/system/sysnet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ClientApp/assets/images/system/visa.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/app/app.component.html" afterPath="$PROJECT_DIR$/ClientApp/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/app/app.component.scss" afterPath="$PROJECT_DIR$/ClientApp/app/app.component.scss" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/app/app.module.ts" afterPath="$PROJECT_DIR$/ClientApp/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" afterPath="$PROJECT_DIR$/tslint.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +267,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -48,6 +298,9 @@
       <find>fs</find>
       <find>exclude</find>
       <find>Asp2017</find>
+      <find>Config</find>
+      <find>AppSettings</find>
+      <find>ServiceNode</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -62,8 +315,44 @@
         <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.service.ts" />
         <option value="$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.module.ts" />
-        <option value="$PROJECT_DIR$/ClientApp/app/app.module.ts" />
         <option value="$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/base-http-service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/env-config.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/lang.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/config/env.config.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/services/base-http-service.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/services/storage.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/cookie-value.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/base-model-response.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/auth/token-model-response.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/auth/service-procces-data.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/auth/service-error-field.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/services/session-state.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/auth/anounce-sign-in.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/auth/announce-sign-in.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/core.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.scss" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/system/settings.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tag.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-node.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/category.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-fields.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/payment-product.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/meter.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/privilege.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tarrif.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/app.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/error-app.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/services/public.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/components/footer/footer-list.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/models/localization-utils.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -79,10 +368,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="51" />
+    <option name="y" value="-17" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -120,6 +409,29 @@
               <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aspnetcore-angular2-universal-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aspnetcore-angular2-universal-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aspnetcore-angular2-universal-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aspnetcore-angular2-universal-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aspnetcore-angular2-universal-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aspnetcore-angular2-universal-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,6 +447,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="C:\Work\aspnetcore-angular2-universal-master\node_modules\tslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\assets\css" />
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\assets" />
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\app\shared" />
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\app\core\models" />
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\aspnetcore-angular2-universal-master\ClientApp\app\core" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,22 +485,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518081436709</updated>
-      <workItem from="1518081438225" duration="16340000" />
+      <workItem from="1518081438225" duration="19849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16340000" />
+    <option name="totallyTimeSpent" value="19849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -206,350 +531,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Server/Models/IRequest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/Data/DbInitializer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/Data/SpaDbContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1637">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.additions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/Debug/netcoreapp2.0/publish/wwwroot/dist/vendor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="0" column="26428" lean-forward="false" selection-start-line="0" selection-start-column="26428" selection-end-line="0" selection-end-column="26428" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/Helpers/HttpRequestExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="133" column="25" lean-forward="true" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/tsconfig.app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/tsconfig.spec.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/shared/link.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/shared/user.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/boot.server.PRODUCTION.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@angular/platform-browser/src/browser.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/preboot/src/server/server-preboot.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.vendor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="8" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="94" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/typings.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/polyfills/polyfills.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#858#887#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/polyfills/server.polyfills.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/polyfills/browser.polyfills.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/polyfills/rx-imports.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/boot.browser.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Asp2017.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/boot.server.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/test/webpack.config.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1522">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/app/containers/lazy/lazy.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="false" />
             <marker date="1518111452297" expanded="true" signature="197:285" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,10 +566,401 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/base-http-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/lang.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/env-config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/config/env.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/services/storage.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/cookie-value.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/base-model-response.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/token-model-response.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/service-procces-data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/service-error-field.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/restore-password.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/register-data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/login-data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/services/session-state.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#64#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/services/base-http-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="43" lean-forward="false" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/auth/announce-sign-in.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1182">
+          <caret line="140" column="50" lean-forward="false" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+            <element signature="e#230#284#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#473#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/assets/images/svg/profile/cards.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/boot.browser.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/system/settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/shared/localize-router/custom/EsPayDefaultLangFunction.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/core.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+            <element signature="e#208#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tag.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/category.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-node.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/service-fields.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/privilege.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/tariff.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/meter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/service-menu/payment-product.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/error-app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/services/public.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3256">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#251#317#0" expanded="true" />
+            <element signature="e#594#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/components/footer/footer-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/models/localization-utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#112#0" expanded="true" />
+            <element signature="e#436#478#0" expanded="true" />
+            <element signature="e#789#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/core/components/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="78" lean-forward="false" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>

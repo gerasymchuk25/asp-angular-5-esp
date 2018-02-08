@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 93" enable-background="new 0 0 50 93" xml:space="preserve">
+<rect x="1" y="11.3" opacity="0.7" fill="#F4F9FD" stroke="#1DAFEC" stroke-miterlimit="10" enable-background="new    " width="47.9" height="69.5"/>
+<path fill="#FFFFFF" stroke="#1DAFEC" stroke-miterlimit="10" d="M49,8.7v2.5H1V8.7c0-3.8,3.4-7.2,7.2-7.2h34.1
+	C46.2,1.5,49,4.9,49,8.7z"/>
+<rect x="0.5" y="11.8" fill="#E3F1FC" width="2.9" height="69.5"/>
+<path fill="#FFFFFF" stroke="#1DAFEC" stroke-miterlimit="10" d="M1,80.7v3.1c0,3.8,3.4,7.6,7.2,7.6h34.1c3.8,0,6.6-3.7,6.6-7.6
+	v-3.1H1z"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M1.5,81.2v2.3c0,3.6,2.9,7.6,6.8,7.6l2.6-0.4
+	c-3.8,0-7.4-3.7-7.4-7.2v-2.3H1.5z"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M3.5,10.8V8.7c0-3.3,2.9-6.8,7-6.8H8.3c-4,0-6.8,3.4-6.8,6.8
+	v2.1H3.5z"/>
+<rect x="46.5" y="11.8" fill="#E3F1FC" width="2.9" height="69.5"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M46.5,81.2v2.3c0,3.6-3.1,7.2-6.9,7.2l2.4,0.4
+	c3.8,0,6.5-4,6.5-7.6v-2.3H46.5z"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M48.5,10.8V8.7c0-3.3-1.7-6.8-5.8-6.8h-2.3
+	c4.1,0,6.1,3.4,6.1,6.8v2.1H48.5z"/>
+<rect x="1" y="11.3" fill="none" stroke="#1DAFEC" stroke-miterlimit="10" width="47.9" height="69.5"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M27.3,87.1c-0.4,0.6-1.2,1.1-2,1.1c-1.4,0-2.4-1.1-2.4-2.4
+	c0-0.8,0.4-1.6,1.1-2c-0.3,0.4-0.4,0.9-0.4,1.4c0,1.4,1.1,2.4,2.4,2.4C26.4,87.6,26.9,87.4,27.3,87.1z"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new    " d="M27.7,85.7c0,0.8-0.4,1.6-1.1,2c0.3-0.4,0.5-0.9,0.5-1.4
+	c0-1.4-1.1-2.4-2.4-2.4c-0.5,0-1,0.2-1.4,0.5c0.5-0.7,1.2-1.1,2.1-1.1C26.7,83.3,27.7,84.4,27.7,85.7z"/>
+<circle fill="none" stroke="#1DAFEC" stroke-miterlimit="10" cx="25.3" cy="85.7" r="2.8"/>
+<g opacity="0.25">
+	<g>
+		<path fill="#63B4F5" d="M19.8,7.3c3.9,0,7.8,0,11.7,0c0.3,0,0.3-0.5,0-0.5c-3.9,0-7.8,0-11.7,0C19.4,6.8,19.4,7.3,19.8,7.3
+			L19.8,7.3z"/>
+	</g>
+</g>
+<line fill="none" stroke="#1DAFEC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.1" y1="6.4" x2="31.8" y2="6.4"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 14">
+  <defs><style>.dotsvg{fill:#a7aaac;}</style></defs>
+  <title>Ресурс 1</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <circle class="dotsvg" cx="1.5" cy="1.5" r="1.5"/>
+    <circle class="dotsvg" cx="1.5" cy="12.5" r="1.5"/>
+    <circle class="dotsvg" cx="1.5" cy="7" r="1.5"/>
+  </g>
+</svg>

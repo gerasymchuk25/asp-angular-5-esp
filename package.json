@@ -51,6 +51,8 @@
     "json-loader": "^0.5.4",
     "moment": "2.18.1",
     "ngx-bootstrap": "2.0.0-beta.6",
+    "ngx-cookie": "^2.0.1",
+    "ngx-webstorage": "^2.0.1",
     "node-sass": "^4.5.2",
     "preboot": "^5.0.0",
     "raw-loader": "^0.5.1",

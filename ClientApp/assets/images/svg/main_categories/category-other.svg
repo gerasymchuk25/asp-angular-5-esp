@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" 	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	width='300' height='78' x="0px" y="0px"
+	viewBox="0 0 90.8 22.4" 
+	enable-background="new 0 0 90.8 22.4" xml:space="preserve">
+<circle fill="#F4F8FC" cx="11.2" cy="11.2" r="10.8"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new" d="M19.7,17.9c-1.9,2.6-5,4.1-8.5,4.1C5.3,22,0.4,17.2,0.4,11.2
+	c0-3.5,1.5-6.6,4.1-8.5C2.9,4.5,2.2,6.8,2.2,9.4c0,5.9,4.9,10.8,10.8,10.8C15.5,20.2,17.9,19.3,19.7,17.9z"/>
+<path fill="#FFFFFF" d="M22,11.2c0,3.2-1.4,6-3.6,8.1c1.7-1.9,2.7-4.4,2.7-7.2c0-5.9-4.9-10.8-10.8-10.8C7.4,1.3,5,2.3,3.1,4
+	C5,1.8,8,0.4,11.2,0.4C17.1,0.4,22,5.1,22,11.2z"/>
+<circle fill="none" stroke="#1DAFEC" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="11.2" cy="11.2" r="10.8"/>
+<circle fill="#F4F8FC" cx="45.4" cy="11.2" r="10.8"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new" d="M53.9,17.9c-1.9,2.6-5,4.1-8.5,4.1c-5.9,0-10.8-4.8-10.8-10.8
+	c0-3.5,1.5-6.6,4.1-8.5c-1.4,1.8-2.3,4.1-2.3,6.7c0,5.9,4.9,10.8,10.8,10.8C49.7,20.2,52.1,19.3,53.9,17.9z"/>
+<path fill="#FFFFFF" d="M56.2,11.2c0,3.2-1.4,6-3.6,8.1c1.7-1.9,2.7-4.4,2.7-7.2c0-5.9-4.9-10.8-10.8-10.8c-2.7,0-5.3,1-7.2,2.7
+	c1.9-2.2,4.9-3.6,8.1-3.6C51.3,0.4,56.2,5.1,56.2,11.2z"/>
+<circle fill="none" stroke="#1DAFEC" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="45.4" cy="11.2" r="10.8"/>
+<circle fill="#F4F8FC" cx="79.6" cy="11.2" r="10.8"/>
+<path opacity="0.25" fill="#1DAFEC" enable-background="new" d="M88.1,17.9c-1.9,2.6-5,4.1-8.5,4.1c-5.9,0-10.8-4.8-10.8-10.8
+	c0-3.5,1.5-6.6,4.1-8.5c-1.5,1.8-2.3,4.1-2.3,6.7c0,5.9,4.9,10.8,10.8,10.8C83.9,20.2,86.3,19.3,88.1,17.9z"/>
+<path fill="#FFFFFF" d="M90.4,11.2c0,3.2-1.4,6-3.6,8.1c1.7-1.9,2.7-4.4,2.7-7.2c0-5.9-4.9-10.8-10.8-10.8c-2.7,0-5.3,1-7.2,2.7
+	c1.9-2.2,4.9-3.6,8.1-3.6C85.5,0.4,90.4,5.1,90.4,11.2z"/>
+<circle fill="none" stroke="#1DAFEC" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="79.6" cy="11.2" r="10.8"/>
+</svg>
